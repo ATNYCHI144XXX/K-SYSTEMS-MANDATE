@@ -16,47 +16,49 @@ This document provides cryptographic verification of all primary K-Systems docum
 
 ## Document Hashes (SHA-256)
 
+**Note:** Hashes will be computed upon PR merge and version tagging. This ensures hashes match the final merged state. For current draft verification, use git commit hashes.
+
 ### Core Documentation
 
 ```
 README.md
-SHA-256: TBD (computed at finalization)
+SHA-256: [To be computed upon merge]
 Size: ~25 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 INDEX.md
-SHA-256: TBD (computed at finalization)
+SHA-256: [To be computed upon merge]
 Size: ~11 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 SYSTEMS-CATALOG.md
-SHA-256: TBD (computed at finalization)
-Size: ~180 KB (estimated)
+SHA-256: [To be computed upon merge]
+Size: ~25 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 IMPLEMENTATIONS.md
-SHA-256: TBD (computed at finalization)
+SHA-256: [To be computed upon merge]
 Size: ~18 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 WHITEPAPERS.md
-SHA-256: TBD (computed at finalization)
+SHA-256: [To be computed upon merge]
 Size: ~26 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 LICENSE
-SHA-256: TBD (computed at finalization)
+SHA-256: [To be computed upon merge]
 Size: ~12 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 VERIFICATION.md (this file)
-SHA-256: TBD (computed at finalization)
-Size: ~8 KB (estimated)
+SHA-256: [To be computed upon merge]
+Size: ~11 KB
 Last Modified: 2025-12-17T00:03:15Z
 
 OPERATIONS.md
-SHA-256: TBD (computed at finalization)
-Size: ~12 KB (estimated)
+SHA-256: [To be computed upon merge]
+Size: ~15 KB
 Last Modified: 2025-12-17T00:03:15Z
 ```
 
@@ -234,9 +236,12 @@ K-Crypto SHAARK: [Block height TBD]
 4. Record in verification log
 
 ### Public Key
+
+**Note:** GPG keys will be generated and published upon official release. For development verification, use git commit signatures.
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-[Key to be generated and inserted]
+[Key to be generated upon official release]
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
