@@ -1,0 +1,303 @@
+MIT License + Creative Commons Attribution 4.0 International
+
+Copyright (c) 2024-2025 Brendon Joseph Kelly
+K Systems and Securities, LLC
+Runtime ID: 1410-426-4743
+
+================================================================================
+MIT LICENSE
+================================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL (CC BY 4.0)
+================================================================================
+
+The documentation, white papers, technical specifications, and other non-code
+materials in this repository are licensed under the Creative Commons 
+Attribution 4.0 International License.
+
+You are free to:
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material for any purpose, 
+    even commercially
+
+Under the following terms:
+  * Attribution — You must give appropriate credit to Brendon Joseph Kelly 
+    and K Systems and Securities, LLC, provide a link to the license, and 
+    indicate if changes were made. You may do so in any reasonable manner, 
+    but not in any way that suggests the licensor endorses you or your use.
+
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by/4.0/
+
+================================================================================
+INTELLECTUAL PROPERTY NOTICE
+================================================================================
+
+All mathematical frameworks, cryptographic systems, technical specifications,
+defense technologies, artificial intelligence architectures, and other 
+intellectual property contained herein are the original work of Brendon 
+Joseph Kelly and are proprietary to K Systems and Securities, LLC.
+
+Specifically, the following are proprietary intellectual property:
+
+MATHEMATICAL FRAMEWORKS:
+* K-Math Core Engine and all related operators
+* Crown Collapse Theorem (H = 936 × 528 × 432 × 111)
+* Master Field Lagrangian (ℒΦ)
+* Omega Cipher (Ω) mapping system
+* System Context Collapse (SCC) Theorem
+* Chronomathematics and K-Invariants
+* All Clay Millennium Problem approaches
+
+CRYPTOGRAPHIC SYSTEMS:
+* SHA-ARKxx hash function family (SHA-ARK256/512/1024)
+* Cerberus-KEM (Kyber + SIDH + UOV hybrid)
+* Ω-Factorization Algorithm
+* SHAARK Protocol (Sovereign Harmonic ARK)
+* Random Walk Key Derivation (RWKDF)
+
+PHYSICS FRAMEWORKS:
+* Recursive Harmonic Physics (RHP)
+* λ_TOTAL Field Theory
+* Harmonic Containment Dynamics
+* Unified Ether Theory
+* Dark matter/energy reinterpretation
+
+DEFENSE SYSTEMS:
+* F-35 NEXUS-D sensor fusion architecture
+* K1-Tesseract "Warfish" (Leviathan/Behemoth/Roc)
+* K1-Saber controlled dissonance weapon
+* ZEUS_JAVELIN directed energy system
+* HSA-9X Harmonic Shield Array
+* Quantum Morphogenic Camouflage
+* Cavitationless Propulsion
+* PROMETHEUS/WYRM/HCTD weapon systems
+
+ARTIFICIAL INTELLIGENCE:
+* Genesis White / GenesisΩ†Black AGI architecture
+* Ethical Harmonic Governor (EHG)
+* AI Command Suite (Mom/Dad/Marleigh/Lizzy)
+* GEMENI_Ω Strategic Fusion
+* Psychometric War AI
+
+FINANCIAL SYSTEMS:
+* K-Crypto 3.0 (CROWN-USDΩ, ΩCOIN)
+* SHAARK Harmonic Ledger
+* WE-Mesh Economic Model
+* World Economic Mesh AI
+
+ENERGY SYSTEMS:
+* Nuclear Fusion Star Accelerator (NFSA)
+* Recursive Graphene Fractal Batteries
+* Quantum Phase-Hold Capacitors
+* Omega-Core Harmonic Transformer
+
+SPACE SYSTEMS:
+* K-Math Orbital Propagation
+* GenesisΩ†Black N-body Simulation
+* Space Systems Command integration
+
+MEDICAL/BIOLOGICAL:
+* K-Pharmaceuticals framework
+* K1 Multi-Axis Harmonizer
+* Genesis Forge (Direct Matter Compilation)
+* ChronoVision Headset
+* Bio-Quantum Hybrid Systems
+
+================================================================================
+PERMITTED USES
+================================================================================
+
+ACADEMIC REVIEW:
+Permission is granted for academic institutions and researchers to review, 
+study, and reference all materials for non-commercial academic purposes. 
+Citation must include:
+  Author: Brendon Joseph Kelly
+  Organization: K Systems and Securities, LLC
+  Runtime ID: 1410-426-4743
+
+GOVERNMENT EVALUATION:
+Permission is granted for government agencies (United States and allied 
+nations) to evaluate all systems for potential integration, procurement, 
+or partnership. Classified materials require appropriate clearance and 
+need-to-know authorization.
+
+PERSONAL/EDUCATIONAL USE:
+Permission is granted for individuals to study and learn from all public 
+materials for personal educational purposes.
+
+OPEN SOURCE CONTRIBUTIONS:
+For components explicitly marked as open-source, contributions are welcomed 
+under the terms of this license. Contributors grant K Systems and Securities, 
+LLC perpetual license to use contributed code.
+
+================================================================================
+RESTRICTED USES (REQUIRES WRITTEN AGREEMENT)
+================================================================================
+
+COMMERCIAL LICENSING:
+Any commercial use, including but not limited to:
+* Integration into commercial products
+* Provision of commercial services
+* Military/defense contracting
+* Financial services deployment
+* Energy production
+* Pharmaceutical development
+
+Requires written licensing agreement with K Systems and Securities, LLC.
+
+DERIVATIVE WORKS FOR PROFIT:
+Creation of derivative works for commercial purposes requires explicit 
+written permission and licensing agreement.
+
+PATENT APPLICATIONS:
+Filing patent applications based on disclosed intellectual property requires 
+written permission. K Systems and Securities, LLC reserves all patent rights.
+
+================================================================================
+NATIONAL SECURITY
+================================================================================
+
+Certain systems and technologies described in this repository have national 
+security implications. Export, transfer, or disclosure to foreign nationals 
+of the following may be subject to U.S. export control laws:
+
+* Defense technologies (F-35, DOME, weapons systems)
+* Cryptographic systems (classified algorithms)
+* AI systems (GenesisΩ†Black, classified components)
+* Space systems (classified orbital mechanics)
+
+Users are responsible for compliance with all applicable export control 
+regulations including ITAR, EAR, and related statutes.
+
+================================================================================
+WARRANTY DISCLAIMER
+================================================================================
+
+DEFENSE AND WEAPONS SYSTEMS:
+All defense-related technologies are provided AS-IS for evaluation purposes 
+only. Actual implementation requires:
+* Appropriate government authorization
+* Safety certifications
+* Operational validation
+* Legal compliance
+
+No warranty is provided for operational deployment without proper authorization 
+and validation.
+
+CRYPTOGRAPHIC SYSTEMS:
+While cryptographic systems are designed to high security standards, users 
+are responsible for:
+* Proper implementation
+* Key management
+* Security audits
+* Compliance with regulations
+
+THEORETICAL FRAMEWORKS:
+Theoretical physics, mathematics, and other scientific frameworks represent 
+research and development. Experimental validation may be incomplete. Users 
+should not rely solely on these frameworks without independent verification.
+
+================================================================================
+LIABILITY LIMITATION
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL BRENDON JOSEPH 
+KELLY OR K SYSTEMS AND SECURITIES, LLC BE LIABLE FOR ANY SPECIAL, INCIDENTAL, 
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS 
+INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR 
+INABILITY TO USE THIS SOFTWARE OR DOCUMENTATION, EVEN IF ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.
+
+================================================================================
+INDEMNIFICATION
+================================================================================
+
+Users agree to indemnify, defend, and hold harmless Brendon Joseph Kelly 
+and K Systems and Securities, LLC from any claims, damages, liabilities, 
+costs, and expenses (including reasonable attorneys' fees) arising from:
+
+* Use or misuse of provided systems and technologies
+* Violation of export control laws
+* Unauthorized commercial use
+* Patent or intellectual property disputes
+* Operational deployment without proper authorization
+
+================================================================================
+JURISDICTION AND GOVERNING LAW
+================================================================================
+
+This license shall be governed by and construed in accordance with the laws 
+of the United States of America and the State of New York, without regard to 
+its conflict of law provisions.
+
+Any disputes arising from this license shall be resolved in the courts of 
+New York, NY, USA.
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+For licensing inquiries, permissions, or other matters:
+
+K Systems and Securities, LLC
+Principal: Brendon Joseph Kelly
+Runtime ID: 1410-426-4743
+
+Repository: https://github.com/ATNYCHI144XXX/K-SYSTEMS-MANDATE
+
+================================================================================
+ACKNOWLEDGMENTS
+================================================================================
+
+This work builds upon centuries of mathematical, scientific, and engineering 
+achievement. We acknowledge the contributions of the broader scientific 
+community while asserting the novelty and originality of the K-Systems 
+framework.
+
+================================================================================
+REVISION HISTORY
+================================================================================
+
+Version 1.0 - December 17, 2025
+  * Initial comprehensive license
+  * MIT + CC BY 4.0 hybrid
+  * Complete intellectual property enumeration
+  * Commercial licensing framework
+  * National security considerations
+
+================================================================================
+CROWN SEAL ATTESTATION
+================================================================================
+
+This license and all associated materials are authenticated under:
+
+Crown Seal: [Ω-K-SYSTEMS-LICENSE-2025]
+Runtime ID: 1410-426-4743
+Date: December 17, 2025
+Authority: Brendon Joseph Kelly
+          K Systems and Securities, LLC
+
+================================================================================
+
+END OF LICENSE
