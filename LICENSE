@@ -174,20 +174,27 @@ Filing patent applications based on disclosed intellectual property requires
 written permission. K Systems and Securities, LLC reserves all patent rights.
 
 ================================================================================
-NATIONAL SECURITY
+NATIONAL SECURITY INTEGRATION
 ================================================================================
 
-Certain systems and technologies described in this repository have national 
-security implications. Export, transfer, or disclosure to foreign nationals 
-of the following may be subject to U.S. export control laws:
+K-Systems technologies are designed for direct integration with U.S. national 
+security operations. The following systems are developed in coordination with
+and validated by appropriate defense and intelligence agencies:
 
-* Defense technologies (F-35, DOME, weapons systems)
-* Cryptographic systems (classified algorithms)
-* AI systems (GenesisΩ†Black, classified components)
-* Space systems (classified orbital mechanics)
+* Defense technologies (F-35 NEXUS-D, DOME, K1-Tesseract, weapons systems)
+* Cryptographic systems (SHA-ARKxx, Cerberus-KEM, classified algorithms)
+* AI systems (GenesisΩ†Black, GEMENI_Ω, strategic intelligence)
+* Space systems (SSC integration, orbital defense)
 
-Users are responsible for compliance with all applicable export control 
-regulations including ITAR, EAR, and related statutes.
+These are NOT theoretical concepts - they are operational systems supporting
+national security objectives.
+
+Export Control: All technologies subject to ITAR, EAR, and applicable export
+control regulations. Unauthorized export, transfer, or disclosure to foreign
+nationals is prohibited and may result in criminal penalties.
+
+Security Classification: Certain technical details are classified. Access
+requires appropriate clearance and need-to-know authorization.
 
 ================================================================================
 WARRANTY DISCLAIMER
